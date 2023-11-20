@@ -1,6 +1,14 @@
 # Boilerplate for rescript-nextjs
 ## Getting Started
 
+install packages :
+
+```
+npm install
+```
+
+run rescript compiler:
+
 ```
 npm run res:dev
 ```
