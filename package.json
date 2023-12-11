@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "res:build": "rescript",
-    "res:dev": "rescript build -w"
+    "res:dev": "rescript build -w",
+    "res:clean": "rescript clean"
   },
   "dependencies": {
     "next": "14.0.3",
