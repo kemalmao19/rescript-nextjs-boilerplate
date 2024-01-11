@@ -1,4 +1,4 @@
-# Boilerplate for rescript-nextjs
+# Minimal Starter for rescript-nextjs
 ## Getting Started
 
 install packages :
